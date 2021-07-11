@@ -1,1 +1,1 @@
-"# siddhantxshirguppe.github.io" 
+"Welcome to QolorQuest Games!"

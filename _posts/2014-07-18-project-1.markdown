@@ -1,0 +1,17 @@
+---
+layout: default
+title: The Pilgrimage
+modal-id: 1
+date: 2014-07-18
+img: G3.PNG
+vid: https://www.youtube.com/embed/GZHxIZy0h-s
+alt: image-alt
+src: https://play.google.com/store/apps/details?id=com.sidcorp.pilgrim&hl=en
+project-date: January 30, 2019
+client: Play Store
+category: Siddhant
+description: A surreal 2D space adventure!<br>
+                                    Take the role of Mothership AI named "IRIS" and make the great journey across space and time in this sci-fi epic!
+                                    Use planets gravity to maneuver your vessel to your destination.
+                                    <br>Your new Earth awaits
+---

@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 6
+date: 2014-07-15
+title: The Weekend
+img: G6.PNG
+img_sc: g6a.png
+vid: 0
+alt: image-alt
+src: https://2nafish117.itch.io/the-weekend
+project-date: August 12, 2017
+client: Itch.io
+category: Shashank
+description: A game where you play a guy who just got off a hectic work day, and plans to relax on the weekend.
+---

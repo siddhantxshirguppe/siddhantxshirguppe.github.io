@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: 2
+date: 2014-07-17
+title: Terminus
+img: G2.PNG
+vid: https://www.youtube.com/embed/5j61Amk-VQ4
+alt: image-alt
+src: https://play.google.com/store/apps/details?id=com.QolorQuestGames.TERMINUS&hl=en
+project-date: June 5, 2019
+client: Play Store
+category: Siddhant
+description: Guide Mr Astro on his journey to get back to his shuttle in this minimal 2D puzzle adventure!
+                                    Choose from the 6 directions and the 3 thrusters settings to move Mr Astro around and help him reach his destination.
+                                    <br>Have fun!
+---

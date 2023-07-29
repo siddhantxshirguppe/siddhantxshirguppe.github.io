@@ -1255,7 +1255,7 @@ input[type="text"] {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #81498880;
+  border-color: #FF9000;
 }
 
 .row-pb-md {

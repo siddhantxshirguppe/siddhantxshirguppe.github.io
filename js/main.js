@@ -154,7 +154,7 @@
 	form.addEventListener('submit', (event) => {
 	event.preventDefault();
 
-	const mailtoLink = `mailto:kotharipurva@gmail.com?subject=Contact form submission from ${nameInput.value}&body=Name: ${nameInput.value}%0D%0AEmail: ${emailInput.value}%0D%0AMessage: ${messageInput.value}`;
+	const mailtoLink = `mailto:siddhantxshirguppe@gmail.com?subject=Contact form submission from ${nameInput.value}&body=Name: ${nameInput.value}%0D%0AEmail: ${emailInput.value}%0D%0AMessage: ${messageInput.value}`;
 
 	window.location.href = mailtoLink;
 
